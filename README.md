@@ -1,0 +1,1 @@
+# mfe-with-shared-lib
